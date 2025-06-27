@@ -1,4 +1,4 @@
-![Screenshot 2025-06-28 012321](https://github.com/user-attachments/assets/73e54b50-50a5-4920-a488-d66ccbd407ca)# bapp
+# bapp
 
 # 💰 TrustBank – Spring Boot Banking Application
 
